@@ -25,8 +25,8 @@ I'm Gayani Samarawera from Sri Lanka, and I do content on Development. I really 
 
 ## Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=desundara&show_icons=true&theme=darcula )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isurandi-samarasingha&show_icons=true&theme=darcula )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desundara&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isurandi-samarasingha&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=desundara&theme=darcula) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=isurandi-samarasingha&theme=darcula) 
